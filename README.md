@@ -1,6 +1,15 @@
 # Algorithm-examples
 algorithm examples in java
 
-* Bullet list
-    * Nested bullet
-        * Sub-nested bullet etc
+* Sorting algorithms 
+    * bubbleSort
+    * selectionSort
+
+* Binary search algorithms
+    * Recursive 
+    * Non-Recursive
+
+* Implementation of the queue by using a linked list 
+	* Operations
+		*Enque
+		*Deque
